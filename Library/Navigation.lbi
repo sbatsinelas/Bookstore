@@ -1,0 +1,15 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div id="masthead">	
+			<div id="logo">
+				<a href="../index.html" title="Home"><img src="../images/logo.jpg" width="350" height="75" alt=""/></a> 
+			</div>
+			
+			<div id="navigation">
+				<a href="../about.html" title="About Us"><div id="aboutnav">About</div> </a>
+				
+		    	<a href="../search.html" title="Library"><div id="librarynav">Library</div></a> 
+				
+		    	<a href="../locations.html" title="Locations"><div id="locationsnav">Locations</div></a> 
+				
+		    	<a href="../contact.html" title="Contact Us"><div id="contactnav">Contact</div></a>
+			</div>
+		</div>
